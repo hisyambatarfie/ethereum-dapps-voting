@@ -1,2 +1,0 @@
-# ethereum-dapps-voting
-Practice
